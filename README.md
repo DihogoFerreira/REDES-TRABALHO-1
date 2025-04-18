@@ -1,2 +1,2 @@
 # REDES-TRABALHO-1
-ESSE TRABALHO FOI UMA SIMULAÇÃO DE UMA MONTAGEM DE ESTRUTURA FÍSICA DE TODO HARDWARE DE UMA CLINICA ODONTOLÓGICA AONDE PUDEMOS APLICAR UM POUCO DO QUE APRENDEMOS DURANTE O MÓDULO DE REDES.
+"Este trabalho simulou a montagem da estrutura física de todo o hardware de uma clínica odontológica, onde pudemos aplicar um pouco do que aprendemos durante o módulo de Redes."
